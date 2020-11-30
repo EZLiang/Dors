@@ -19,7 +19,7 @@ init()  # whatever
 app = easydos.Application()
 app.set("base", os.getcwd())
 app.set("date", datetime.today().strftime('%Y-%m-%d'))
-app.set("mac", mac = ("%02x:%02x:%02x:%02x:%02x:%02x" % tuple([randint(0, 255) for i in range(6)])))
+app.set("mac", "%02x:%02x:%02x:%02x:%02x:%02x" % tuple([randint(0, 255) for i in range(6)]))
 app.set("version", "v1.0.0")
 
 
@@ -51,9 +51,10 @@ if not ("nostartup" in sys.argv):
 
     loading_bar(15, "Starting: ", "Dors has been successfully loaded.")
     print()
-    print("Dors", (version), "on", sys.platform)
+    print("Dors", (app.environment["version"]), "on", sys.platform)
 
-@app.error(env)
+@app.error
+def onerror(env):
     os.chdir(env["base"])
     env["cwdir"] = env["base"]
     print(f"{Fore.RED}System has encountered an error. RESTARTING{Fore.WHITE}")
@@ -139,6 +140,8 @@ def vercmd(args, env):
 @app.command("exec")
 def execcmd(args):
     return # TODO: improve easydos to allow exec
+
+app.run()
 
 
 """def validate_date(date_string):
