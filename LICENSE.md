@@ -22,7 +22,7 @@ BE CONSIDERED TO BE A CONTRACT, THE LICENSOR GRANTS YOU THE RIGHTS
 CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND
 CONDITIONS.
 
-1. Definitions
+# 1. Definitions
 
  a. "Adaptation" means a work based upon the Work, or upon the Work and
     other pre-existing works, such as a translation, adaptation,
@@ -123,12 +123,12 @@ CONDITIONS.
     protected performance or phonogram in digital form or other electronic
     medium.
 
-2. Fair Dealing Rights. Nothing in this License is intended to reduce,
+# 2. Fair Dealing Rights. Nothing in this License is intended to reduce,
 limit, or restrict any uses free from copyright or rights arising from
 limitations or exceptions that are provided for in connection with the
 copyright protection under copyright law or other applicable laws.
 
-3. License Grant. Subject to the terms and conditions of this License,
+# 3. License Grant. Subject to the terms and conditions of this License,
 Licensor hereby grants You a worldwide, royalty-free, non-exclusive,
 perpetual (for the duration of the applicable copyright) license to
 exercise the rights in the Work as stated below:
@@ -150,20 +150,17 @@ exercise the rights in the Work as stated below:
  d. to Distribute and Publicly Perform Adaptations.
  
  e. For the avoidance of doubt:
-
-     i. Non-waivable Compulsory License Schemes. In those jurisdictions in
+   (i) Non-waivable Compulsory License Schemes. In those jurisdictions in
         which the right to collect royalties through any statutory or
         compulsory licensing scheme cannot be waived, the Licensor
         reserves the exclusive right to collect such royalties for any
         exercise by You of the rights granted under this License;
-        
-    ii. Waivable Compulsory License Schemes. In those jurisdictions in
+   (ii) Waivable Compulsory License Schemes. In those jurisdictions in
         which the right to collect royalties through any statutory or
         compulsory licensing scheme can be waived, the Licensor waives the
         exclusive right to collect such royalties for any exercise by You
         of the rights granted under this License; and,
-        
-   iii. Voluntary License Schemes. The Licensor waives the right to
+   (iii) Voluntary License Schemes. The Licensor waives the right to
         collect royalties, whether individually or, in the event that the
         Licensor is a member of a collecting society that administers
         voluntary licensing schemes, via that society, from any exercise
@@ -175,8 +172,7 @@ such modifications as are technically necessary to exercise the rights in
 other media and formats. Subject to Section 8(f), all rights not expressly
 granted by Licensor are hereby reserved.
 
-4. Restrictions. The license granted in Section 3 above is expressly made
-subject to and limited by the following restrictions:
+# 4. Restrictions. The license granted in Section 3 above is expressly made subject to and limited by the following restrictions:
 
  a. You may Distribute or Publicly Perform the Work only under the terms
     of this License. You must include a copy of, or the Uniform Resource
@@ -278,7 +274,7 @@ subject to and limited by the following restrictions:
     right under Section 3(b) of this License (right to make Adaptations)
     but not otherwise.
 
-5. Representations, Warranties and Disclaimer
+# 5. Representations, Warranties and Disclaimer
 
 UNLESS OTHERWISE MUTUALLY AGREED TO BY THE PARTIES IN WRITING, LICENSOR
 OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY
@@ -289,13 +285,13 @@ LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS,
 WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION
 OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
 
-6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE
+# 6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE
 LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR
 ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES
 ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS
 BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
 
-7. Termination
+# 7. Termination
 
  a. This License and the rights granted hereunder will terminate
     automatically upon any breach by You of the terms of this License.
@@ -315,7 +311,7 @@ BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
     License will continue in full force and effect unless terminated as
     stated above.
 
-8. Miscellaneous
+# 8. Miscellaneous
 
  a. Each time You Distribute or Publicly Perform the Work or a Collection,
     the Licensor offers to the recipient a license to the Work on the same
@@ -383,3 +379,4 @@ Creative Commons Notice
 
     Creative Commons may be contacted at https://creativecommons.org/.
     A human readable version of this license can be found at https://creativecommons.org/licenses/by-sa/3.0/.
+    The full license can also be found at: https://creativecommons.org/licenses/by-sa/3.0/legalcode.
