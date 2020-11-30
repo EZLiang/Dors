@@ -239,8 +239,7 @@ subject to and limited by the following restrictions:
     permission of the Original Author, Licensor and/or Attribution
     Parties.
     
- e. For the avoidance of doubt:
-
+ e. For the avoidance of doubt: 
    (i) Non-waivable Compulsory License Schemes. In those jurisdictions in
         which the right to collect royalties through any statutory or
         compulsory licensing scheme cannot be waived, the Licensor
