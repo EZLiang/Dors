@@ -238,6 +238,7 @@ subject to and limited by the following restrictions:
     use of the Work, without the separate, express prior written
     permission of the Original Author, Licensor and/or Attribution
     Parties.
+    
  e. For the avoidance of doubt:
 
    (i) Non-waivable Compulsory License Schemes. In those jurisdictions in
